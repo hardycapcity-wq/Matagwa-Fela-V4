@@ -1,0 +1,8 @@
+{
+  "name": "Matagwa Fela",
+  "description": "The ultimate party ritual. Get loud with Squad and Couples modes, intense challenges, and neon night vibes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
